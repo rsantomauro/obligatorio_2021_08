@@ -1,0 +1,12 @@
+
+driftfile /var/lib/chrony/drift
+
+restrict 127.0.0.1 
+restrict -6 ::1
+
+server 0.south-america.pool.ntp.org
+
+includefile /etc/ntp/crypto/pw
+
+keys /etc/chrony.keys
+
