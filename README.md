@@ -1,3 +1,4 @@
+![alt text](https://github.com/rsantomauro/obligatorio_2021_08/blob/main/Portada_README_Git.jpg)
 # Obligatorio Taller de servidores Linux 2021 🎓
 
 ## Comenzando 🚀
